@@ -1,0 +1,19 @@
+{
+  "target": "ESP32-C3",
+  "version": "1.6.18",
+  "artifacts": [
+    {
+      "name": "v1.6.18-ui-nobrand.bin",
+      "type": "full-image",
+      "size": 1517344,
+      "sha256": "4734ff9f6b6500615e8d8a416dad6ccb871e1e650e19b39861904fed3ae14e6c"
+    },
+    {
+      "name": "app0-ui-nobrand.bin",
+      "type": "app-partition",
+      "flash_offset": "0x10000",
+      "size": 1451808,
+      "sha256": "8639a83b484d7e4be70ea8908495a59356374ab8ff11754038aa04de2e267c71"
+    }
+  ]
+}

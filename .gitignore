@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+.venv/
+__pycache__/
+original/
+private/
+*.elf
+*.map
