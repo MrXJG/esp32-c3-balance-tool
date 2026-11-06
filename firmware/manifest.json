@@ -3,13 +3,13 @@
   "version": "1.6.18",
   "artifacts": [
     {
-      "name": "v1.6.18-ui-nobrand.bin",
+      "name": "v1.6.18-ui.bin",
       "type": "full-image",
       "size": 1517344,
       "sha256": "4734ff9f6b6500615e8d8a416dad6ccb871e1e650e19b39861904fed3ae14e6c"
     },
     {
-      "name": "app0-ui-nobrand.bin",
+      "name": "app0-ui.bin",
       "type": "app-partition",
       "flash_offset": "0x10000",
       "size": 1451808,
